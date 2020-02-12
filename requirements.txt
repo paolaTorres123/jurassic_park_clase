@@ -1,0 +1,7 @@
+django
+Pillow
+mysqlclient
+flake8
+autopep8
+behave-django
+django-weasyprint
